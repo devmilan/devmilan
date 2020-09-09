@@ -45,10 +45,10 @@ I’m a Senior Web Developer based in the beautiful city Bangalore, India. For t
 
 
 <a href="https://github.com/devmilan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmilan&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmilan&count_private=true&theme=radical" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=devmilan&&show_icons=true&theme=radical&line_height=27&v=5" alt="Milan panigrahi's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=devmilan&&show_icons=true&count_private=true&theme=radical&line_height=27&v=5" alt="Milan panigrahi's GitHub Stats" />
 
 
 <!-- <a href="https://github.com/ashwanisng/Covid-19-Data-Analysis"> -->
