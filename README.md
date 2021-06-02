@@ -22,7 +22,7 @@
 Javascript | ReactJs | NodeJs | MERN | MEAN 
 
 ## About :sunglasses:
-I’m a Senior Web Developer based in the beautiful city Bangalore, India. For the past 6 Years and 6 months, I am a budding self-taught software engineer. I've been developing applications for the web using mostly react js. I do this for a living and love what I do as every day there is something new and exciting to learn. Experienced with all stages of the development cycle for dynamic web projects.Having an in-depth knowledge including advanced HTML5, CSS, CSS3, SASS, LESS, JSON, XML, Java, JavaScript, JQuery, Angular JS. Strong background in management and leadership.
+I’m a Senior Web Developer based in the beautiful city Bangalore, India. For the past 7+ Years, I am a budding self-taught software engineer. I've been developing applications for the web using mostly react js. I do this for a living and love what I do as every day there is something new and exciting to learn. Experienced with all stages of the development cycle for dynamic web projects.Having an in-depth knowledge including advanced HTML5, CSS, CSS3, SASS, LESS, JSON, XML, Java, JavaScript, JQuery, Angular JS. Strong background in management and leadership.
 
 ## Technologies :fire:
 - HTML
